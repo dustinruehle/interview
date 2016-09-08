@@ -33,9 +33,9 @@ of that word.
   ```
 
   **Notes**:
-  * The list of words in `anagrams` MUST NOT contain the requested word itself.
-  * The list of words in `anagrams` MUST be sorted alphabetically.
-  * The list of words in `anagrams` MUST be returned in their original case.
+  * The list of words in `anagrams` must not contain the requested word itself.
+  * The list of words in `anagrams` must be sorted alphabetically.
+  * The list of words in `anagrams` must be returned in their original case.
 
 * Returns `404 Not Found` if the word does not exist in the dictionary, with the
   response body
